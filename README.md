@@ -1,3 +1,8 @@
+# 10 Sep 2023
+- Finished up the remaining crash course exercises
+- Finishing up Exercise 2
+- Starting Exercise 3
+
 # 03 Sep 2023
 **Review Session**
 - Brushed up on python fundamentals (OOP) with crash course.
