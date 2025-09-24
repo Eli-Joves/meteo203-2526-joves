@@ -1,6 +1,7 @@
 # 24 Sep 2025
 - Reorganized folders into exercises_n
 - Uploaded /data and /exercises_03
+- Finished exercise 03 - might edit more in a week
 
 # 17 Sep 2025
 - Changed year from 2023 -> 2025 (oopsies)
