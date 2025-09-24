@@ -1,3 +1,7 @@
+# 24 Sep 2025
+- Reorganized folders into exercises_n
+- Uploaded /data and /exercises_03
+
 # 17 Sep 2025
 - Changed year from 2023 -> 2025 (oopsies)
 - Uploaded rest of the crash course i forgot
