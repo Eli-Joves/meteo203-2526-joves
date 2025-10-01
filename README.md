@@ -1,3 +1,6 @@
+# 01 Oct 2025
+- Uploaded and finished exercise 03
+
 # 24 Sep 2025
 - Reorganized folders into exercises_n
 - Uploaded /data and /exercises_03
