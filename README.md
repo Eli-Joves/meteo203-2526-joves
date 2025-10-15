@@ -1,3 +1,8 @@
+# 15 Oct 2025
+- Edited exercise 4
+- Added exercise 5
+- added /data/ to .gitignore
+
 # 01 Oct 2025
 - Uploaded and finished exercise 04
 
