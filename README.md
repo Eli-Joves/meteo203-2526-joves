@@ -1,3 +1,7 @@
+# 05 Nov 2025
+- Finished exercise 6
+- Added the following exercises
+
 # 22 Oct 2025
 - Finished exercise 5
 - added exercise 6
