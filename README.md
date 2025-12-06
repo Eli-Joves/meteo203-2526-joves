@@ -1,3 +1,7 @@
+# 07 Dec 2025 (done with other courses yey)
+- Finished exer 7
+- Starting exer 8
+
 # 05 Nov 2025
 - Finished exercise 6
 - Added the exercise 7 and 8
