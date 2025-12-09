@@ -1,3 +1,6 @@
+# 10 Dec 2025 
+- Finished exer 08. Might make edits, but this one is good for now.
+
 # 07 Dec 2025 (done with other courses yey)
 - Finished exer 7
 - Starting exer 8
